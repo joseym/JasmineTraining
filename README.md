@@ -17,3 +17,7 @@ Presentation and code surrounding Jasmine Unit Testing lunch and learn
   - `npm i -g gulp`
 - One off test: `gulp test`
 - Watch for tests in specs or classes: `gulp test:auto`
+
+### Presentation
+
+Open `JasmineSlides.html` in the browser of your choice
